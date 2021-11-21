@@ -508,6 +508,7 @@ the website, in dark theme
   justify-self: center;
   margin-bottom: var(--mb-0-75);
   transition: .3s;
+  border-radius: 3px;
 }
 
 .product__title,
